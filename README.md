@@ -1,3 +1,29 @@
+<!-- Paste this at the top of your README.md -->
+<div align="center">
+
+  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="4" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <text 
+      x="50%" y="50%" 
+      dominant-baseline="middle" text-anchor="middle"
+      fill="#0ff" font-family="Verdana" font-size="48"
+      filter="url(#neon-glow)"
+    >
+      blazssy
+    </text>
+  </svg>
+
+</div>
 <h1 align="center">Hi 👋, I'm D Shreyas</h1>
 <h3 align="center">Aspiring Fullstack Developer from India 🇮🇳</h3>
 
@@ -71,7 +97,7 @@
 <h3 align="left">📂 Projects:</h3>
 ## 🚀 Featured Projects
 
-Here’s a horizontally scrolling “carousel” of your top repos. Each badge is a clickable link—just swap in your repo URLs, text, colors, and logos as you like.
+
 
 <div align="left" style="display: flex; gap: 10px; overflow-x: auto; padding-bottom: 10px;">
 
