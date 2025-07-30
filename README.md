@@ -1,30 +1,28 @@
-<!-- Paste this at the top of your README.md -->
 <div align="center">
-
-  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="4" result="blur"/>
+        <feGaussianBlur stdDeviation="3" result="blurred"/>
         <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="blur"/>
+          <feMergeNode in="blurred"/>
+          <feMergeNode in="blurred"/>
           <feMergeNode in="SourceGraphic"/>
         </feMerge>
       </filter>
     </defs>
-
-    <text 
-      x="50%" y="50%" 
-      dominant-baseline="middle" text-anchor="middle"
-      fill="#0ff" font-family="Verdana" font-size="48"
+    <text
+      x="50%" y="50%"
+      dominant-baseline="middle"
+      text-anchor="middle"
+      font-family="Verdana, sans-serif"
+      font-size="48"
+      fill="#00FFFF"
       filter="url(#neon-glow)"
     >
-      Hi 👋, I'm D Shreyas
+      Hi 👋, I’m D Shreyas
     </text>
   </svg>
-
 </div>
-<h1 align="center">Hi 👋, I'm D Shreyas</h1>
 <h3 align="center">Aspiring Fullstack Developer from India 🇮🇳</h3>
 
 <p align="left">
