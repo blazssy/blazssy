@@ -10,7 +10,7 @@
 
 - 🌱 Currently mastering Java, DSA, Django REST Framework, React, and System Design
 
-- 👨‍💻 Building [NutriQuest](https://github.com/shreyasdsd1/nutriquest) and refining Tap Academy assignments
+- 👨‍💻 Building [NutriQuest](https://github.com/shreyasdsd1/NutriQuest) and refining Tap Academy assignments
 
 - 📑 Resume: [Download PDF](https://drive.google.com/file/d/1pn6OfZ4kDQzT0Z0iDkhz1rO35LI-s0HC/view?usp=sharing)
 
@@ -27,7 +27,7 @@
 <p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=shreyasdsd1&show_icons=true&theme=radical&count_private=true" 
-    alt="GitHub Stats" 
+    alt="D Shreyas’s GitHub Stats" 
   />
 </p>
 
@@ -47,27 +47,27 @@
 
 ---
 
-<h3 align="left">📈 GitHub Activity:</h3>
+<h3 align="left">🔧 Tech Stack:</h3>
 
-<p align="left">
-  <img 
-    src="https://img.shields.io/github/commit-activity/m/shreyasdsd1/NutriQuest?style=flat&logo=git&label=NutriQuest%20Commits" 
-    alt="NutriQuest Monthly Commits" 
-  />
-  <img 
-    src="https://img.shields.io/github/issues-pr-closed-raw/shreyasdsd1/NutriQuest?style=flat&logo=github&label=NutriQuest%20PRs" 
-    alt="NutriQuest PRs Closed" 
-  />
-  <br/>
-  <img 
-    src="https://img.shields.io/github/commit-activity/m/shreyasdsd1/TapAcademy-DSA?style=flat&logo=git&label=TapAcademy%20Commits" 
-    alt="Tap Academy Monthly Commits" 
-  />
-  <img 
-    src="https://img.shields.io/github/issues-pr-closed-raw/shreyasdsd1/TapAcademy-DSA?style=flat&logo=github&label=TapAcademy%20PRs" 
-    alt="Tap Academy PRs Closed" 
-  />
-</p>
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%61DAFB)
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+- ![Django REST](https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+<h3 align="left">📂 Projects:</h3>
+
+- 🥗 [NutriQuest](https://github.com/shreyasdsd1/nutriquest) — Fullstack nutrition app with Django + React, backend APIs, and analytics features.
+
+- 📘 [Tap Academy Assignments](https://github.com/shreyasdsd1/TapAcademy-DSA) — Java + DSA practice, focusing on sliding window, prefix sum, and two-pointer logic.
 
 ---
 
