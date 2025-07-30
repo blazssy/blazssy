@@ -10,7 +10,7 @@
 
 - 🌱 Currently mastering Java, DSA, Django REST Framework, React, and System Design
 
-- 👨‍💻 Building [NutriQuest](https://github.com/shreyasdsd1/NutriQuest) and refining Tap Academy assignments
+- 👨‍💻 Building [NutriQuest](https://github.com/shreyasdsd1/nutriquest) and refining Tap Academy assignments
 
 - 📑 Resume: [Download PDF](https://drive.google.com/file/d/1pn6OfZ4kDQzT0Z0iDkhz1rO35LI-s0HC/view?usp=sharing)
 
