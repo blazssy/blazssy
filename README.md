@@ -1,4 +1,4 @@
-<img width="867" height="244" alt="image" src="https://github.com/user-attachments/assets/73d2b6fe-a6b6-4c80-90bb-59756150377d" />
+
 
 <h3 align="center">Aspiring Fullstack Developer from India 🇮🇳</h3>
 
