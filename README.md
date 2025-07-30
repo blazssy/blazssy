@@ -8,39 +8,51 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
+    <clipPath id="typing-clip">
+      <rect x="30" y="0" width="0" height="100">
+        <animate 
+          attributeName="width" 
+          from="0" 
+          to="545" 
+          dur="3s" 
+          fill="freeze"
+          begin="0.5s"
+        />
+      </rect>
+    </clipPath>
   </defs>
   
   <text
-    x="50%" y="50%"
+    x="30" y="50%"
     dominant-baseline="middle"
-    text-anchor="middle"
+    text-anchor="start"
     font-family="Verdana, sans-serif"
     font-size="48"
     fill="#00FFFF"
     filter="url(#neon-glow)"
+    clip-path="url(#typing-clip)"
   >
-    <animate 
-      attributeName="opacity" 
-      from="0" 
-      to="1" 
-      dur="1s" 
-      fill="freeze" 
-    />
-    
-    Hi 
-    <tspan dy="-5">
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        values="0 0 0; 20 0 0; -15 0 0; 20 0 0; 0 0 0"
-        dur="1.5s"
-        repeatCount="indefinite"
-        begin="1s"
-        additive="sum"
-      />
-      👋
-    </tspan>, I’m D Shreyas
+    Hi 👋, I’m D Shreyas
   </text>
+
+  <rect x="30" y="25" width="3" height="50" fill="#00FFFF" filter="url(#neon-glow)">
+    <animate 
+      attributeName="x"
+      from="30"
+      to="575"
+      dur="3s"
+      fill="freeze"
+      begin="0.5s"
+    />
+    <animate 
+      attributeName="opacity"
+      values="1;0"
+      dur="0.8s"
+      repeatCount="indefinite"
+      begin="3.5s"
+    />
+  </rect>
 </svg>
 <h3 align="center">Aspiring Fullstack Developer from India 🇮🇳</h3>
 
