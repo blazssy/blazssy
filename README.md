@@ -19,7 +19,7 @@
       fill="#0ff" font-family="Verdana" font-size="48"
       filter="url(#neon-glow)"
     >
-      blazssy
+      Hi 👋, I'm D Shreyas
     </text>
   </svg>
 
