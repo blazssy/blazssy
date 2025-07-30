@@ -69,7 +69,35 @@
 ---
 
 <h3 align="left">📂 Projects:</h3>
+## 🚀 Featured Projects
 
+Here’s a horizontally scrolling “carousel” of your top repos. Each badge is a clickable link—just swap in your repo URLs, text, colors, and logos as you like.
+
+<div align="left" style="display: flex; gap: 10px; overflow-x: auto; padding-bottom: 10px;">
+
+  <a href="https://github.com/blazssy/NutriQuest" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/NutriQuest-Fullstack%20Nutrition%20App-blue?style=for-the-badge&logo=djangorestframework&logoColor=white" 
+      alt="NutriQuest" 
+    />
+  </a>
+
+  <a href="https://github.com/blazssy/TapAcademy-DSA" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/TapAcademy-DSA%20Practice-green?style=for-the-badge&logo=java&logoColor=white" 
+      alt="Tap Academy DSA" 
+    />
+  </a>
+
+  <a href="https://github.com/blazssy/YourOtherProject" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/YourProject-Feature%20X-red?style=for-the-badge&logo=react&logoColor=white" 
+      alt="YourOtherProject" 
+    />
+  </a>
+
+  <!-- Add more badges here following the same pattern -->
+</div>
 - 🥗 [NutriQuest](https://github.com/shreyasdsd1/nutriquest) — Fullstack nutrition app with Django + React, backend APIs, and analytics features.
 - <img 
   src="https://img.shields.io/github/issues-pr-closed-raw/blazssy/NutriQuest?style=flat&logo=github&label=NutriQuest%20PRs" 
