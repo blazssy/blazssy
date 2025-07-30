@@ -1,59 +1,25 @@
-<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blurred"/>
-      <feMerge>
-        <feMergeNode in="blurred"/>
-        <feMergeNode in="blurred"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <clipPath id="typing-clip">
-      <rect x="30" y="0" width="0" height="100">
-        <animate 
-          attributeName="width" 
-          from="0" 
-          to="545" 
-          dur="3s" 
-          fill="freeze"
-          begin="0.5s"
-        />
-      </rect>
-    </clipPath>
-  </defs>
-  
-  <text
-    x="30" y="50%"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-family="Verdana, sans-serif"
-    font-size="48"
-    fill="#00FFFF"
-    filter="url(#neon-glow)"
-    clip-path="url(#typing-clip)"
-  >
-    Hi 👋, I’m D Shreyas
-  </text>
-
-  <rect x="30" y="25" width="3" height="50" fill="#00FFFF" filter="url(#neon-glow)">
-    <animate 
-      attributeName="x"
-      from="30"
-      to="575"
-      dur="3s"
-      fill="freeze"
-      begin="0.5s"
-    />
-    <animate 
-      attributeName="opacity"
-      values="1;0"
-      dur="0.8s"
-      repeatCount="indefinite"
-      begin="3.5s"
-    />
-  </rect>
-</svg>
+<div align="center">
+  <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="3" result="blurred"/>
+        <feMerge>
+          <feMergeNode in="blurred"/>
+          <feMergeNode in="blurred"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Verdana, sans-serif" font-size="48" fill="#00FFFF" filter="url(#neon-glow)">
+      <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" />
+      Hi 
+      <tspan dy="-5">
+        <animateTransform attributeName="transform" type="rotate" values="0 0 0; 20 0 0; -15 0 0; 20 0 0; 0 0 0" dur="1.5s" repeatCount="indefinite" begin="1s" additive="sum"/>
+        👋
+      </tspan>, I’m D Shreyas
+    </text>
+  </svg>
+</div>
 <h3 align="center">Aspiring Fullstack Developer from India 🇮🇳</h3>
 
 <p align="left">
