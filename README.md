@@ -25,24 +25,29 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shreyasdsd1&show_icons=true&theme=radical&count_private=true" 
-    alt="D Shreyas’s GitHub Stats" 
-  />
+ <img 
+  src="https://github-readme-stats.vercel.app/api?username=blazssy&show_icons=true&theme=radical&count_private=true" 
+  alt="GitHub Stats for blazssy" 
+/>
+
 </p>
 
 <p align="left">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasdsd1&theme=radical" 
-    alt="GitHub Streak" 
-  />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazssy&layout=compact&theme=radical" 
+  alt="Top Languages for blazssy" 
+/>
+
+
+
 </p>
 
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasdsd1&layout=compact&theme=radical" 
-    alt="Top Languages" 
-  />
+ <img 
+  src="https://github-readme-stats.vercel.app/api?username=blazssy&show_icons=true&theme=radical&count_private=true" 
+  alt="GitHub Stats for blazssy" 
+/>
+
 </p>
 
 ---
@@ -68,6 +73,14 @@
 - 🥗 [NutriQuest](https://github.com/shreyasdsd1/nutriquest) — Fullstack nutrition app with Django + React, backend APIs, and analytics features.
 
 - 📘 [Tap Academy Assignments](https://github.com/shreyasdsd1/TapAcademy-DSA) — Java + DSA practice, focusing on sliding window, prefix sum, and two-pointer logic.
+<img 
+  src="https://img.shields.io/github/commit-activity/m/blazssy/NutriQuest?style=flat&logo=git&label=NutriQuest%20Commits" 
+  alt="NutriQuest Monthly Commits" 
+/>
+<img 
+  src="https://img.shields.io/github/issues-pr-closed-raw/blazssy/NutriQuest?style=flat&logo=github&label=NutriQuest%20PRs" 
+  alt="NutriQuest PRs Closed" 
+/>
 
 ---
 
