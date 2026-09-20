@@ -1,142 +1,261 @@
 <div align="center">
-  <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="3" result="blurred"/>
-        <feMerge>
-          <feMergeNode in="blurred"/>
-          <feMergeNode in="blurred"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Verdana, sans-serif" font-size="48" fill="#00FFFF" filter="url(#neon-glow)">
-      <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" />
-      Hi 
-      <tspan dy="-5">
-        <animateTransform attributeName="transform" type="rotate" values="0 0 0; 20 0 0; -15 0 0; 20 0 0; 0 0 0" dur="1.5s" repeatCount="indefinite" begin="1s" additive="sum"/>
-        👋
-      </tspan>, I’m D Shreyas
-    </text>
-  </svg>
+
+# 👋 Hi, I'm D Shreyas
+
+### AI/ML • GenAI • AI Systems • Backend Engineering
+
+🇮🇳 CSE Engineering Student from India
+
 </div>
-<h3 align="center">Aspiring Fullstack Developer from India 🇮🇳</h3>
 
-<p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=shreyasdsd1&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="shreyasdsd1" 
-  />
-</p>
-
-- 🌱 Currently mastering Java, DSA, Django REST Framework, React, and System Design
-
-- 👨‍💻 Building [NutriQuest](https://github.com/shreyasdsd1/NutriQuest) and refining Tap Academy assignments
-
-- 📑 Resume: [Download PDF](https://drive.google.com/file/d/1pn6OfZ4kDQzT0Z0iDkhz1rO35LI-s0HC/view?usp=sharing)
-
-- 💻 All my projects are available on [GitHub](https://github.com/shreyasdsd1)
-
-- 💬 Ask me about DSA patterns, Backend APIs, and Fullstack workflows
-
-- 📫 Reach me at shreyasdsd1@gmail.com
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="left">
- <img 
-  src="https://github-readme-stats.vercel.app/api?username=blazssy&show_icons=true&theme=radical&count_private=true" 
-  alt="GitHub Stats for blazssy" 
-/>
-
-</p>
-
-<p align="left">
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazssy&layout=compact&theme=radical" 
-  alt="Top Languages for blazssy" 
-/>
-
-
-
-</p>
-
-<p align="left">
- <img 
-  src="https://github-readme-stats.vercel.app/api?username=blazssy&show_icons=true&theme=radical&count_private=true" 
-  alt="GitHub Stats for blazssy" 
-/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=blazssy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-<h3 align="left">🔧 Tech Stack:</h3>
+## 🚀 About Me
 
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%61DAFB)
-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-- ![Django REST](https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+* 🎓 Final-year **Computer Science Engineering** student with a strong interest in **AI/ML and AI Systems**
+* 🤖 Building toward a career in **AI Engineering → AI Systems Engineering**
+* 🧠 Currently strengthening **Machine Learning, Deep Learning, LLMs, Generative AI, and Agentic AI**
+* 🏗️ Interested in the systems behind AI: **AI System Design, LLMOps, RAG, AI Agents, MLOps, and scalable backends**
+* 💻 Building projects using **Python, Django/FastAPI, REST APIs, SQL, React, and AI technologies**
+* 📚 Practicing **DSA and problem-solving patterns** with Python
+* ☁️ Exploring **Docker, Cloud, MLOps, and distributed AI systems**
+* 🇩🇪 Preparing for a **Master's in Germany**, with interests around **AI, Data Engineering, ML, and related computing fields**
+* 🔬 Have internship experience including work associated with **IISc**
+* 📈 Currently working toward becoming an engineer who can build both **AI models and the systems that deploy and scale them**
 
 ---
 
-<h3 align="left">📂 Projects:</h3>
-## 🚀 Featured Projects
+## 🧠 Current Focus
 
+```text
+Python
+  ↓
+DSA + Problem Solving
+  ↓
+SQL + Data Engineering
+  ↓
+Machine Learning
+  ↓
+Deep Learning + PyTorch
+  ↓
+LLMs + Generative AI
+  ↓
+RAG + AI Agents
+  ↓
+MLOps + LLMOps
+  ↓
+AI System Design
+  ↓
+Distributed Systems + Scalable AI
+```
 
+### Currently Learning
 
-<div align="left" style="display: flex; gap: 10px; overflow-x: auto; padding-bottom: 10px;">
+* 🐍 Python
+* 🧮 Data Structures & Algorithms
+* 🗄️ SQL & Data Engineering
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 🔤 NLP
+* 🧬 Generative AI
+* 🔗 RAG & LLM Applications
+* 🤝 Agentic AI
+* 🛡️ AI Guardrails
+* ⚙️ LLMOps / MLOps
+* 🏗️ AI System Design
+* 🐳 Docker & Cloud
+* 🖥️ Linux & Backend Systems
 
-  <a href="https://github.com/blazssy/NutriQuest" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/NutriQuest-Fullstack%20Nutrition%20App-blue?style=for-the-badge&logo=djangorestframework&logoColor=white" 
-      alt="NutriQuest" 
-    />
-  </a>
+---
 
-  <a href="https://github.com/blazssy/TapAcademy-DSA" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/TapAcademy-DSA%20Practice-green?style=for-the-badge&logo=java&logoColor=white" 
-      alt="Tap Academy DSA" 
-    />
-  </a>
+## 🛠️ Tech Stack
 
-  <a href="https://github.com/blazssy/YourOtherProject" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/YourProject-Feature%20X-red?style=for-the-badge&logo=react&logoColor=white" 
-      alt="YourOtherProject" 
-    />
-  </a>
+### Languages
 
-  <!-- Add more badges here following the same pattern -->
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-FF4B4B?style=for-the-badge" />
+</p>
+
+### Backend & Web
+
+<p>
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%61DAFB" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### Cloud / AI Engineering
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMOps-6A1B9A?style=for-the-badge" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🥗 NutriQuest
+
+**Full-stack nutrition application**
+
+* Django backend with REST APIs
+* React-based frontend
+* Nutrition and food-related data processing
+* Backend architecture and API development
+* Database integration and analytics
+
+🔗 [View NutriQuest](https://github.com/blazssy/NutriQuest)
+
+---
+
+### 🦷 Multimodal Oral Premalignant Lesion Prediction
+
+**AI/ML major project**
+
+A multimodal clinical decision-support project exploring the combination of:
+
+* 🖼️ Oral lesion images
+* 📊 Patient clinical/history data
+* 🤖 Machine Learning / Deep Learning
+* 🧠 Multimodal prediction
+* 📋 Clinical risk-related features
+
+Target lesion categories include:
+
+* Oral Lichen Planus (OLP)
+* Leukoplakia
+* Erythroplakia
+* Oral Submucous Fibrosis (OSMF)
+
+The project focuses on combining **visual information with structured clinical data** rather than relying on lesion images alone.
+
+---
+
+### 💻 DSA Practice
+
+Regular practice of algorithmic problem-solving and pattern recognition.
+
+Current focus:
+
+* Two Pointers
+* Sliding Window
+* Hash Maps
+* Prefix Sum
+* Array Patterns
+* Searching
+* Sorting
+* Recursion
+* Basic Dynamic Programming
+
+🔗 [DSA Practice Repository](https://github.com/blazssy/TapAcademy-DSA)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Computer Science & Engineering**
+
+* CGPA: **8.79**
+* Focus areas: Computer Science, AI/ML, Data Engineering, Backend Systems
+
+---
+
+## 💼 Experience
+
+### Research / Technical Internship — IISc
+
+Worked in a technical/research environment and gained exposure to practical software and computing workflows.
+
+### Technical Internship Experience
+
+Additional internship experience includes work involving software/application development and technical implementation.
+
+---
+
+## 📜 Certifications
+
+* 🎓 **AWS Academy Graduate — AWS Academy Cloud Developing**
+* 📜 **JavaScript Algorithms and Data Structures Certification**
+* 🤖 **Oracle Free Agentic AI Foundation**
+
+---
+
+## 🎯 Career Direction
+
+```text
+AI Engineer
+      ↓
+Applied AI / ML Engineer
+      ↓
+GenAI / LLM Engineer
+      ↓
+AI Systems Engineer
+```
+
+My long-term interest is at the intersection of:
+
+**AI + Software Engineering + Data + Distributed Systems**
+
+I want to move beyond simply building models and learn how to design, deploy, evaluate, monitor, and scale AI systems in production.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blazssy&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazssy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* 💻 GitHub: [@blazssy](https://github.com/blazssy)
+* 📧 Email: [shreyasdsd1@gmail.com](mailto:shreyasdsd1@gmail.com)
+* 📄 [Resume](https://drive.google.com/file/d/1pn6OfZ4kDQzT0Z0iDkhz1rO35LI-s0HC/view?usp=sharing)
+
+---
+
+<div align="center">
+
+### 🚀 Building AI systems, one layer at a time.
+
 </div>
-- 🥗 [NutriQuest](https://github.com/shreyasdsd1/nutriquest) — Fullstack nutrition app with Django + React, backend APIs, and analytics features.
-- <img 
-  src="https://img.shields.io/github/issues-pr-closed-raw/blazssy/NutriQuest?style=flat&logo=github&label=NutriQuest%20PRs" 
-  alt="NutriQuest PRs Closed" 
-/>
-<img 
-  src="https://img.shields.io/github/commit-activity/m/blazssy/NutriQuest?style=flat&logo=git&label=NutriQuest%20Commits" 
-  alt="NutriQuest Monthly Commits" 
-/>
-
-- 📘 [Tap Academy Assignments](https://github.com/shreyasdsd1/TapAcademy-DSA) — Java + DSA practice, focusing on sliding window, prefix sum, and two-pointer logic.
-
-
-
----
-
-<h3 align="left">🎓 Certifications:</h3>
-
-- [JavaScript Algorithms and Data Structures Certification](https://drive.google.com/file/d/1K-bMIJWUFIEbTgAMGZmb-Kyvxl2LJ1U6/view?usp=sharing)
-
-- [AWS Academy Graduate - AWS Academy Cloud Developing](https://www.credly.com/badges/3b96d27d-7efb-461c-b656-4781ee52c863/public_url)
